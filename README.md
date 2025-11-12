@@ -1,1 +1,1 @@
-EDSR for OGQ
+EDSR for OGQQ
